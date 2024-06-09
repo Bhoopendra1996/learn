@@ -39,6 +39,7 @@ const Home = () => {
       <p>Welcome to the Home Page!</p>
       <p>Welcome to the Home Page!</p>
       <p>Welcome to the Home Page!</p>
+      <p>my project has been connected</p>
     </div>
   );
 };
